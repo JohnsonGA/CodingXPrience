@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/94858d05-885f-4193-baec-2b38c98293db)# Taller_2_MLOps
+
 ## Integrantes:
 - Luz Angela Iriarte Zamora
 - Juan David Aristizabal Cifuentes
